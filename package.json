@@ -1,0 +1,22 @@
+{
+  "name": "put-javascript-design-patterns-into-pratice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandipkumarpal/Put-Javascript-Design-Patterns-into-pratice.git"
+  },
+  "author": "Sandip Pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandipkumarpal/Put-Javascript-Design-Patterns-into-pratice/issues"
+  },
+  "homepage": "https://github.com/sandipkumarpal/Put-Javascript-Design-Patterns-into-pratice#readme",
+  "devDependencies": {
+    "requirejs": "^2.3.5"
+  }
+}
